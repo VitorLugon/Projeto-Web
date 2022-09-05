@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+img#hero{
+    width: 150px;
+    border-radius: 20%;
+    margin: 20px 50px 20px 10px;
+}
+h1#hero{
+    color: blue;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
